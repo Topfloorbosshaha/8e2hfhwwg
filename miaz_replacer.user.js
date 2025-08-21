@@ -4,10 +4,9 @@
 // @version      1.0
 // @description  Replace displayed Instagram profile name (client-side only)
 // @match        https://www.instagram.com/*
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @updateURL    https://raw.githubusercontent.com/YOURUSER/YOURREPO/main/miaz_replacer.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOURUSER/YOURREPO/main/miaz_replacer.user.js
+// @grant        none
+// @updateURL    https://raw.githubusercontent.com/Topfloorbosshaha/8e2hfhwwg/main/miaz_replacer.user.js
+// @downloadURL  https://raw.githubusercontent.com/Topfloorbosshaha/8e2hfhwwg/main/miaz_replacer.user.js
 // ==/UserScript==
 
 (function() {
